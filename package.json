@@ -27,7 +27,7 @@
 	},
     "dependencies":
     {
-	"googleapis": "^14.0.0"
+	"googleapis": "git+https://github.com/daveosterjr/google-api-nodejs-client.git"
     },
 	"devDependencies": {
 		"grunt": "^0.4.5",
