@@ -27,7 +27,7 @@
 	},
     "dependencies":
     {
-        "googleapis": "git+ssh://git@github.com:postmen/google-api-nodejs-client.git"
+	"googleapis": "^14.0.0",
     },
 	"devDependencies": {
 		"grunt": "^0.4.5",
